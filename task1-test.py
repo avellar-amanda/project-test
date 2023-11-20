@@ -1,2 +1,2 @@
 def id_function(X):
-    return X+X
+    return X+2
